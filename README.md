@@ -7,6 +7,7 @@ A list of blogs and resources for PHP developers.
 ## Blogs
 
 - [Laravel News](https://laravel-news.com)
+- [Murze.be](https://murze.be)
 
 ## Credits
 
