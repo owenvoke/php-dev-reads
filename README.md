@@ -4,6 +4,10 @@
 
 A list of blogs and resources for PHP developers.
 
+## Blogs
+
+- [Laravel News](https://laravel-news.com)
+
 ## Credits
 
 - [pxgamer][link-author]
