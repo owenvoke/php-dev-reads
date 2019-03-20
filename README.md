@@ -6,10 +6,11 @@ A list of blogs and resources for PHP developers.
 
 ### Blogs
 
+- [Akrabat](https://akrabat.com/category/php) (Rob Allen)
 - [Laravel News](https://laravel-news.com)
-- [Murze.be](https://murze.be)
-- [PHPied](https://www.phpied.com)
-- [Stitcher.io](https://stitcher.io)
+- [Murze.be](https://murze.be) (Freek Van der Herten)
+- [PHPied](https://www.phpied.com) (Stoyan Stefanov)
+- [Stitcher.io](https://stitcher.io) (Brent Roose)
 - [The PHP Consulting Company](https://thephp.cc/news)
 
 ### Forums
