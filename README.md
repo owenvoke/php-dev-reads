@@ -10,6 +10,7 @@ A list of blogs and resources for PHP developers.
 - [Murze.be](https://murze.be)
 - [PHPied](https://www.phpied.com)
 - [Stitcher.io](https://stitcher.io)
+- [The PHP Consulting Company](https://thephp.cc/news)
 
 ### Forums
 
