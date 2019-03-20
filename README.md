@@ -4,12 +4,17 @@
 
 A list of blogs and resources for PHP developers.
 
-## Blogs
+### Blogs
 
 - [Laravel News](https://laravel-news.com)
 - [Murze.be](https://murze.be)
 - [PHPied](https://www.phpied.com)
 - [Stitcher.io](https://stitcher.io)
+
+### Forums
+
+- [Reddit: Laravel](https://www.reddit.com/r/laravel)
+- [Reddit: PHP](https://www.reddit.com/r/php)
 
 ## Credits
 
