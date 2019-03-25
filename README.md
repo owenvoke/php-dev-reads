@@ -8,7 +8,6 @@ A list of blogs and resources for PHP developers.
 
 - [Akrabat](https://akrabat.com/category/php) (Rob Allen)
 - [David Carr](https://daveismyname.blog)
-- [DEV (PHP)](https://dev.to/t/php)
 - [Laravel News](https://laravel-news.com)
 - [Matt Stauffer](https://mattstauffer.com/blog)
 - [Murze.be](https://murze.be) (Freek Van der Herten)
@@ -18,6 +17,7 @@ A list of blogs and resources for PHP developers.
 
 ### Forums
 
+- [DEV (PHP)](https://dev.to/t/php)
 - [Reddit: Laravel](https://www.reddit.com/r/laravel)
 - [Reddit: PHP](https://www.reddit.com/r/php)
 
