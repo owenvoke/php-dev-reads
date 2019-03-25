@@ -17,7 +17,7 @@ A list of blogs and resources for PHP developers.
 
 ### Forums
 
-- [DEV (PHP)](https://dev.to/t/php)
+- [DEV: PHP](https://dev.to/t/php)
 - [Reddit: Laravel](https://www.reddit.com/r/laravel)
 - [Reddit: PHP](https://www.reddit.com/r/php)
 
