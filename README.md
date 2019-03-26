@@ -11,6 +11,7 @@ A list of blogs and resources for PHP developers.
 - [Laravel News](https://laravel-news.com)
 - [Matt Stauffer](https://mattstauffer.com/blog)
 - [Murze.be](https://murze.be) (Freek Van der Herten)
+- [Paragon Initiative Enterprises](https://paragonie.com/blog)
 - [PHPied](https://www.phpied.com) (Stoyan Stefanov)
 - [Stitcher.io](https://stitcher.io) (Brent Roose)
 - [The PHP Consulting Company](https://thephp.cc/news)
