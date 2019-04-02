@@ -16,6 +16,7 @@ A list of blogs and resources for PHP developers.
 - [Stitcher.io](https://stitcher.io) (Brent Roose)
 - [The PHP Consulting Company](https://thephp.cc/news)
 - [Tighten](https://tighten.co/blog)
+- [Bootsity](https://bootsity.com)
 
 ### Forums
 
