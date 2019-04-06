@@ -4,6 +4,10 @@
 
 A list of blogs and resources for PHP developers.
 
+### Core
+
+- [PHP Official Manual](https://php.net/manual)
+
 ### Blogs
 
 - [Akrabat](https://akrabat.com/category/php) (Rob Allen)
