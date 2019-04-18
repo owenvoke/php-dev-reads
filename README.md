@@ -11,6 +11,7 @@ A list of blogs and resources for PHP developers.
 ### Blogs
 
 - [Akrabat](https://akrabat.com/category/php) (Rob Allen)
+- [Arkadiusz Kondas](https://arkadiuszkondas.com)
 - [Bootsity](https://bootsity.com)
 - [David Carr](https://daveismyname.blog)
 - [Laravel News](https://laravel-news.com)
